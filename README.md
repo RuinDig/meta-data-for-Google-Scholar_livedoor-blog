@@ -2,7 +2,7 @@
 
 論文データベースに掲載されない卒業論文(学士論文)をGoogle Scholarの検索結果に反映させるためにライブドアブログ (https://ruindig.blog.jp) に設定したメタデータ
 
-[メタデータのhtml](https://github.com/RuinDig/meta-data-for-Google-Scholar_livedoor-blog/blob/main/meta-data-for-Google-Scholar_livedoor-blog.html)
+[メタデータのHTML](https://github.com/RuinDig/meta-data-for-Google-Scholar_livedoor-blog/blob/main/meta-data-for-Google-Scholar_livedoor-blog.html)
 
 RuinDigの卒業論文の概要ページのURL：https://ruindig.blog.jp/ingress/rd-yu-graduate-thesis.html
 
