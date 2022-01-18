@@ -1,6 +1,6 @@
 # meta-data-for-Google-Scholar_livedoor-blog
 
-論文データベースに掲載されない卒業論文(学士論文)をGoogle Scholarの検索結果に反映させるためにライブドアブログ (https://ruindig.blog.jp) のheadタグ内に設定したメタデータ
+論文データベースに掲載されない卒業論文(学士論文)をGoogle Scholarの検索結果に反映させるためにライブドアブログ (https://ruindig.blog.jp) のトップページのheadタグ内に設定したメタデータ
 
 [メタデータのHTML](https://github.com/RuinDig/meta-data-for-Google-Scholar_livedoor-blog/blob/main/meta-data-for-Google-Scholar_livedoor-blog.html)
 
